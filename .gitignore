@@ -5,3 +5,4 @@ __pycache__
 *.pyc
 static/
 card_accounting/public/static/
+*.sqlite3
